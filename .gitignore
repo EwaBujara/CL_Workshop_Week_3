@@ -1,3 +1,6 @@
 /target/
 /src/
-bin/
+/bin/
+/.project
+/.classpath
+/.settings
