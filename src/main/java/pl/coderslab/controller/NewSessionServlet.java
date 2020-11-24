@@ -3,7 +3,7 @@ package pl.coderslab.controller;
 import pl.coderslab.dao.UserDao;
 import pl.coderslab.model.User;
 
-import javax.jws.soap.SOAPBinding;
+//import javax.jws.soap.SOAPBinding;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
